@@ -1,4 +1,4 @@
-# Club DJPEPE ✂️
+# Club DJPEPE
 ![DJPEPE](assets/user/DJPEPE.jpeg)
 
 ## *100% Steals Yer Girl 100%*

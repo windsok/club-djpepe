@@ -1,8 +1,6 @@
 # Club DJPEPE
 ![DJPEPE](assets/user/DJPEPE.jpeg)
 
-## *100% Steals Yer Girl 100%*
-
 ### How to join Club DJPEPE
 
 If you don't have it already, you'll need to install [Telegram Messenger](https://telegram.org/) and create an account
